@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mo Anwaar</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate developer </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moanwaarcodes&label=Profile%20views&color=0e75b6&style=flat" alt="moanwaarcodes" /> </p>
 
-- 🔭 I’m currently working on **building interactive web experiences using the latest frontend technologies.**
+  🔭 I’m currently working on **building interactive web experiences using the latest frontend technologies.**
 
-- 🌱 I’m currently learning **Machine Learning & React Advance Concepts**
+  🌱 I’m currently learning **Machine Learning & React Advance Concepts**
 
-- 👯 I’m looking to collaborate on **open-source projects that focus on improving user experiences.**
+  👯 I’m looking to collaborate on **open-source projects that focus on improving user experiences.**
 
-- 🤝 2023 Goals: **Well-versed with the Full-Stack Website Development**
+  🤝 2023 Goals: **Well-versed with the Full-Stack Website Development**
 
-- 💬 Ask me about **React, JavaScript & Tailwind Css**
+  💬 Ask me about **React, JavaScript & Tailwind Css**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mo-anwaar-900a1a288/**
+  📫 How to reach me **https://www.linkedin.com/in/mo-anwaar-900a1a288/**
 
 - ⚡ Fun fact **I use Vite over CRA 😛**
 
