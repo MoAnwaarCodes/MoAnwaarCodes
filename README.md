@@ -4,6 +4,7 @@
 <table>
   <tr>
     <td width="60%">
+     
       🔭 I’m currently working on **building interactive web experiences using the latest frontend technologies.**
 
       🌱 I’m currently learning **Machine Learning & React Advance Concepts**
@@ -21,7 +22,7 @@
     <td width="40%">
       <img align="right" alt="Coding" style="border-radius: 40px; max-width: 100%; display: inline-block;" width="400" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
     </td>
-  </tr>
+</tr>
 </table>
 
 <h3 align="left">Connect with me:</h3>
