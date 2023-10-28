@@ -2,6 +2,9 @@
 <h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" style="border-radius:40px" width="400" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
 
+<!-- Add this div for the movable emoji -->
+<div id="movable-emoji" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); cursor: pointer;">😎</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moanwaarcodes&label=Profile%20views&color=0e75b6&style=flat" alt="moanwaarcodes" style="border-radius:50px" /> </p>
 
 🔭 I’m currently working on **building interactive web experiences using the latest frontend technologies.**
