@@ -3,15 +3,15 @@
 <img align="right" alt="Coding" style="border-radius:40px" width="400" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moanwaarcodes&label=Profile%20views&color=0e75b6&style=flat" alt="moanwaarcodes" style="border-radius:50px" /> </p>
-
+<img height="20" src="https://camo.githubusercontent.com/57c08150fc7754ce470fa00041220e38c4cea27265e1106c568de0b57e3d9bd2/68747470733a2f2f6163656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f6237326e76362f706172747970617272742d33302e676966" data-canonical-src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
 🔭 I’m currently working on **building interactive web experiences and mobile apps using the latest frontend technologies.**
-
+<img height="20" src="https://camo.githubusercontent.com/57c08150fc7754ce470fa00041220e38c4cea27265e1106c568de0b57e3d9bd2/68747470733a2f2f6163656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f6237326e76362f706172747970617272742d33302e676966" data-canonical-src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
 🌱 I’m currently learning **React Advance Concepts And Node Js **
-
+<img height="20" src="https://camo.githubusercontent.com/57c08150fc7754ce470fa00041220e38c4cea27265e1106c568de0b57e3d9bd2/68747470733a2f2f6163656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f6237326e76362f706172747970617272742d33302e676966" data-canonical-src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
 👯 I’m looking to collaborate on **open-source projects that focus on improving user experiences.**
-
+<img height="20" src="https://camo.githubusercontent.com/57c08150fc7754ce470fa00041220e38c4cea27265e1106c568de0b57e3d9bd2/68747470733a2f2f6163656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f6237326e76362f706172747970617272742d33302e676966" data-canonical-src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
 🤝 2024 Goals: **Well-versed with Full-Stack Website Development And Full Stack mobile application developer**
-
+<img height="20" src="https://camo.githubusercontent.com/57c08150fc7754ce470fa00041220e38c4cea27265e1106c568de0b57e3d9bd2/68747470733a2f2f6163656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f6237326e76362f706172747970617272742d33302e676966" data-canonical-src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
 💬 Ask me about **React , C# , JavaScript & Tailwind CSS**
 
 <img height="20" src="https://camo.githubusercontent.com/57c08150fc7754ce470fa00041220e38c4cea27265e1106c568de0b57e3d9bd2/68747470733a2f2f6163656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f6237326e76362f706172747970617272742d33302e676966" data-canonical-src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> ⚡ Fun fact **I use Vite over CRA 😛**
